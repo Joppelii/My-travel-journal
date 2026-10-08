@@ -25,7 +25,6 @@ Welcome to my travel journal! Here I share my experiences and memories from diff
 
 ## Useful Links
 
-- [GitHub](https://github.com)
 - [Visit Romania](https://romania.travel/)
 
 > Traveling is an opportunity to learn something new about the world.
