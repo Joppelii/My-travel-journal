@@ -6,7 +6,7 @@ Welcome to my travel journal! Here I share my experiences and memories from diff
 ## My Destinations
 
 | Country | Destination | Year |
-
+|---------|-------------|------|
 | USA | Minneapolis | 2026 |
 | Romania | Bacău | 2026 |
 
